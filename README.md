@@ -16,3 +16,9 @@
 <div align="center">
   <img src="https://github.com/Xlawy/photo/blob/main/image-20240305142034127.png">
 </div>
+
+## 安装教程
+1\. 浏览器安装油猴插件。
+2\. 前往GreasyFork网站或直接在Github上下载插件并导入油猴：
+   https://greasyfork.org/zh-CN/scripts/489038-%E6%96%B9%E6%AD%A3%E6%95%99%E5%8A%A1%E5%BF%AB%E9%80%9F%E6%9F%A5%E8%AF%A2%E7%BB%A9%E7%82%B9
+3\. Enjoy! 
