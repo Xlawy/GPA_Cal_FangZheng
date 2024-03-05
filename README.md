@@ -1,5 +1,7 @@
 # GPA_Cal_FangZheng
 
+想法来源于@Mate-Tomato
+
 ## 功能描述
 
 可以在方正教务系统上快速计算具体某学年某学期的绩点。
