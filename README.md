@@ -8,7 +8,7 @@
 
 选择好具体的学年和学期后点击查询，再点击GPA=NaN即可计算完毕，如下图所示：
 <div align="center">
-  <img src="https://github.com/Xlawy/photo/blob/main/image-20240305141959184.png">
+  <img src="https://cdn.jsdelivr.net/gh/Xlawy/ImageHosting/img/image-20240305141959184.png">
 </div>
 
 
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Xlawy/photo/blob/main/image-20240305142034127.png">
+  <img src="https://cdn.jsdelivr.net/gh/Xlawy/ImageHosting/img/image-20240305142034127.png">
 </div>
 
 ## 安装教程
